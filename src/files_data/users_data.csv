@@ -1,0 +1,4 @@
+user_id|user_ci|nombre|apellido|direccion|email|user_type
+1|1111111|Diego|Alarcon|la paz|Diego@gmail.com|common
+2|2222222|Renan|Boaventura|Sao Paolo|Renan@gmail.com|public
+3|3333333|Miguel|Paricahua|arequipa|Miguel@gmail.com|common
