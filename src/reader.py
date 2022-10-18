@@ -32,4 +32,5 @@ def get_list_data(name_file):
     path = f'files_data/{name_file}.csv'
     return generate_list(path=path) if validate_path(path=path) else "File Not Found"
 
-# Use that function
+
+print("use get_list_data to get data from scv file") 
